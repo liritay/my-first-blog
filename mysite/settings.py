@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'he-il'
 
-TIME_ZONE = 'asia/jerusalem'
+TIME_ZONE = 'Asia/Jerusalem'
 
 USE_I18N = True
 
