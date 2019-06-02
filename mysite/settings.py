@@ -25,7 +25,7 @@ SECRET_KEY = 'dvdrl&n=1gs^k1wek^mc5q%bmq=i5i9%el=vynr$f4+f=v5!fy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
